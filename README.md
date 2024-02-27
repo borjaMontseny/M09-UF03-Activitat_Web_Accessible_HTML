@@ -1,6 +1,6 @@
-# Descripció del Projecte
+# Activitat Web Accessible HTML
 
-[accessible.html](https://borjamontseny.github.io/M09-UF03-Activitat_Web_Accessible_HTML/accessible.html)
+[Enllàç a la web](https://borjamontseny.github.io/M09-UF03-Activitat_Web_Accessible_HTML/accessible.html)
 
 
 ## Accessible
